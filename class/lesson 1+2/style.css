@@ -1,0 +1,184 @@
+.img1{
+    width:100%;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+
+.hello{
+    font-size: 25px;
+}
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('http://www.omnifood.net/resources/CSS/img/hero-min.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+}
+.header a:hover{
+    background-color: rgb(228, 249, 249);
+}
+
+
+.photo img {
+    width: 372px;
+    height: 272px;
+    opacity: 0.5;
+}
+
+.ms {
+    list-style: none;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .photo {
+    float:left;
+    width:25%;
+    padding:0 ;
+  }
+
+.ff  h1:after {
+    display: block;
+    height: 2px;
+    background-color: #e67622;
+    content: " ";
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.hiw h1:after {
+    display: block;
+    height: 2px;
+    background-color: #e67622;
+    content: " ";
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.sb:first-child {
+    text-align: right;
+    padding-right: 3%;
+    margin-top: 30px;
+    
+}
+
+
+.wcitc h1:after {
+    display: block;
+    height: 2px;
+    background-color: #e67622;
+    content: " ";
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.section-testimonials {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('http://www.omnifood.net/resources/CSS/img/back-customers-min.jpg');
+    background-size: cover;
+    color: #fff;
+    background-attachment: fixed;
+}
+
+section {
+    display: block;
+}
+
+.row {
+    padding: 0 2%;
+}
+.row {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+
+
+cite img {
+    height: 45px;
+    border-radius: 50%;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.plan-box div {
+    padding: 15px;
+    border-top: 1px solid #c78400;
+    border-left: 1px solid #c78400;
+    border-right: 1px solid #c78400;
+    
+}
+
+.plan-box {
+    background-color: #fff;
+    border-radius: 5px;
+    width: 90%;
+    margin-left: 5%;
+    box-shadow: 0 2px 2px #c78400;
+}
+
+.plan-box {
+    width: 100%;
+    margin-left: 0%;
+}
+
+footer {
+    background-color: #333;
+    padding: 50px;
+    font-size: 80%;
+}
+footer {
+    display: block;
+}
+.footer-nav li a:link, .footer-nav li a:visited, .social-links li a:link, .social-links li a:visited {
+    text-decoration: none;
+    border: 0;
+    color: #888;
+    transition: color 0.2s;
+}
+
+.footer-nav {
+    list-style: none;
+    float: left;
+}
+
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('http://www.omnifood.net/resources/CSS/img/hero-min.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+}
+header {
+    display: block;
+}
+.main-nav {
+    float: right;
+    list-style: none;
+    margin-top: 55px;
+}
+.main-nav li {
+    display: inline-block;
+    margin-left: 40px;
+}   
+
+.header h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #fff;
+    font-size: 240%;
+    word-spacing: 4px;
+    letter-spacing: 1px;
+}
+
+
+
+
